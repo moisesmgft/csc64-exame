@@ -2,6 +2,15 @@
 
 Este repositório contém o projeto para a solução de código paralelo, estruturado de forma organizada para facilitar a navegação e o entendimento. Abaixo, descrevemos a organização dos arquivos e diretórios, bem como os links para as partes principais do projeto.
 
+## Grupo 2
+
+Bruno Daigo Yamamoto 
+Cauê Marçal 
+Francisco Gabriel
+Moisés Moreira
+Rafael Camargo
+Othon Daiki
+
 ## Estrutura do Repositório
 
 - **src/**: Contém os arquivos fonte da solução desenvolvida.
