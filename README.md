@@ -5,10 +5,15 @@ Este repositório contém o projeto para a solução de código paralelo, estrut
 ## Grupo 2
 
 Bruno Daigo Yamamoto 
+
 Cauê Marçal 
+
 Francisco Gabriel
+
 Moisés Moreira
+
 Rafael Camargo
+
 Othon Daiki
 
 ## Estrutura do Repositório
