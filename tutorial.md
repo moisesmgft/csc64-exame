@@ -26,7 +26,7 @@ gcc -fopenmp --version
 Clone o repositório
 
 ```bash
-git clone 
+git clone https://github.com/moisesmgft/csc64-exame.git
 cd csc64-exame
 ```
 
