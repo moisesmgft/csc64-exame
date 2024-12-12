@@ -11,24 +11,24 @@ Certifique-se de que as seguintes ferramentas estão instaladas no seu sistema:
 
 1. **Instale o GCC**
 
-   ```bash
-   sudo apt-get install gcc
-   ```
+```bash
+sudo apt-get install gcc
+```
 
 2. **Verifique o suporte ao OpenMP**
 
-   ```bash
-   gcc -fopenmp --version
-   ```
+```bash
+gcc -fopenmp --version
+```
 
 ## Instalando 
 
 Clone o repositório
 
-    ```bash
-    git clone 
-    cd csc64-exame
-    ```
+```bash
+git clone 
+cd csc64-exame
+```
 
 ## Compilando o Projeto
 
